@@ -52,7 +52,7 @@
   <tbody>
     <tr>
       <td class="time">7:00 AM</td>
-      <td>Wake up & get ready for the day</td>
+      <td>Wake up & get ready</td>
     </tr>
     <tr>
       <td class="time">8:00 AM</td>
@@ -67,4 +67,27 @@
       <td>Commute to work</td>
     </tr>
     <tr>
-      <td class="time">11:00 AM – 6:00
+      <td class="time">11:00 AM – 6:30 PM</td>
+      <td>Work shift</td>
+    </tr>
+    <tr>
+      <td class="time">6:30 PM – 7:00 PM</td>
+      <td>Travel home from work</td>
+    </tr>
+    <tr>
+      <td class="time">7:00 PM – 9:00 PM</td>
+      <td>Homework / Schoolwork</td>
+    </tr>
+    <tr>
+      <td class="time">9:00 PM</td>
+      <td>Lay down / Relax</td>
+    </tr>
+    <tr>
+      <td class="time">11:00 PM</td>
+      <td>Go to bed</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
